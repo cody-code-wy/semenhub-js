@@ -1,1 +1,1 @@
-console.log($('#sh-animal'))
+console.log($('.sh-animal'))
